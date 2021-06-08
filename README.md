@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KingHacker9000, my Name is Ashish Ajin, I' 16 yo and an aspiring Game Dev
+- 👋 Hi, I’m @KingHacker9000, my Name is Ashish Ajin, I'm 16 yo and an aspiring Game Dev
 - 👀 I’m interested in Game Dev, Web Dev, Creative Engineering
 - 🌱 I’m currently learning in High School
 - 💞️ I’m looking to collaborate on Any Basic Games for expireince and fun
