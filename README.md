@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Dev, Web Dev, Creative Engineering
 - 🌱 I’m currently learning in High School
 - 💞️ I’m looking to collaborate on Any Basic Games for expireince and fun
-- 📫 How to reach me: just send me an email @ Coolioboss7@gmail.com
+- 📫 How to reach me: just send me an email @ ashishajin05@gmail.com
 
 <!---
 KingHacker9000/KingHacker9000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
