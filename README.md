@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hi, I’m Ashish Ajin, an aspiring Game Dev<br>👀 I’m interested in Game Dev, Web Dev, Creative Development<br>🌱 I’m currently studying at the University of Toronto<br>📫 How to reach me: send me an email @ ashishajin05@gmail.com
+🔭 Hi, I’m Ashish Ajin, an aspiring Machine Learning and Computer Graphics Researcher<br>👀 I’m interested in AI, Games, and Neural Rendering <br>🌱 I’m currently studying at the University of Toronto<br>📫 How to reach me: send me an email @ ashishajin05@gmail.com
 
 
 # 💻 Tech Stack:
