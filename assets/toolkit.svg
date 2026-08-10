@@ -28,7 +28,7 @@
     <text x="0" y="130" class="mono k tool">Tree-sitter · Local-first · Agent Infrastructure</text>
     <text x="0" y="169" class="sans sub" font-size="16">Code search, durable jobs, local runtimes, network tools,</text>
     <text x="0" y="192" class="sans sub" font-size="16">resource management and recoverable execution.</text>
-    <text x="0" y="222" class="mono muted small">EVIDENCE → agentgrep · Shellbell · Re:Meet · quickget · Compute_Platform</text>
+    <text x="0" y="222" class="mono muted small">EVIDENCE → agentgrep · shellbell · Re:Meet · quickget · Compute_Platform</text>
   </g>
 
   <g transform="translate(48 357)">
@@ -36,10 +36,10 @@
     <text x="28" y="13" class="mono sub tag">03 / GRAPHICS + INTERFACES</text>
     <text x="0" y="57" class="sans k domain">Make technical things feel alive</text>
     <text x="0" y="99" class="mono k tool">TypeScript · JavaScript · React · R3F</text>
-    <text x="0" y="130" class="mono k tool">Three.js · WebGL · p5.js · Blender</text>
-    <text x="0" y="169" class="sans sub" font-size="16">Interactive 3D, procedural visuals, playful interfaces</text>
-    <text x="0" y="192" class="sans sub" font-size="16">and product surfaces for technically dense systems.</text>
-    <text x="0" y="222" class="mono muted small">EVIDENCE → 3D-Website · ashishajin.com · Nabokov's-Cards · DemoWeave</text>
+    <text x="0" y="130" class="mono k tool">Three.js · WebGL · p5.js · Blender · Unity</text>
+    <text x="0" y="169" class="sans sub" font-size="16">Interactive 3D, procedural visuals, games and playful</text>
+    <text x="0" y="192" class="sans sub" font-size="16">product surfaces for technically dense systems.</text>
+    <text x="0" y="222" class="mono muted small">EVIDENCE → 3D-Website · ashishajin.com · NEAT-Unity · Nabokov-s-Cards</text>
   </g>
 
   <g transform="translate(632 357)">
@@ -50,7 +50,7 @@
     <text x="0" y="130" class="mono k tool">Playwright · FastAPI · Flask · FFmpeg · WSL</text>
     <text x="0" y="169" class="sans sub" font-size="16">Self-hosting, browser automation, CI/release workflows,</text>
     <text x="0" y="192" class="sans sub" font-size="16">GPU workloads, services and evidence-driven testing.</text>
-    <text x="0" y="222" class="mono muted small">EVIDENCE → DemoWeave · Re:Meet · Shellbell · Compute_Platform · quickget</text>
+    <text x="0" y="222" class="mono muted small">EVIDENCE → DemoWeave · Re:Meet · shellbell · Compute_Platform · quickget</text>
   </g>
 
   <text x="48" y="585" class="mono muted small">ALSO WORKED WITH → C · C# · Java · SQL · React Native · Express · PostgreSQL · MySQL · SQLite</text>
