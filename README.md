@@ -55,6 +55,17 @@ Not a list of every library I have ever installed. This is the stack and set of 
 
 The map is grounded in the repository history — from PyTorch/NeRF experiments and R3F work to Rust code intelligence, Go networking tools, local AI software, browser automation, CI and self-hosted infrastructure.
 
+<details>
+<summary><b>Repository trail behind the map</b></summary>
+<br>
+<table>
+<tr><td><b>Research + vision</b></td><td><a href="https://github.com/KingHacker9000/Tiny-NeRF">Tiny-NeRF</a> · <a href="https://github.com/KingHacker9000/GaussianAvatar">GaussianAvatar</a> · <a href="https://github.com/KingHacker9000/Music_Avatar">Music_Avatar</a> · <a href="https://github.com/KingHacker9000/Word-As-Image-HF">Word-As-Image-HF</a></td></tr>
+<tr><td><b>Systems + agents</b></td><td><a href="https://github.com/KingHacker9000/agentgrep">agentgrep</a> · <a href="https://github.com/KingHacker9000/shellbell">shellbell</a> · <a href="https://github.com/KingHacker9000/remeet">Re:Meet</a> · <a href="https://github.com/KingHacker9000/quickget">quickget</a> · <a href="https://github.com/KingHacker9000/demoweave">DemoWeave</a></td></tr>
+<tr><td><b>Graphics + interfaces</b></td><td><a href="https://github.com/KingHacker9000/3D-Website">3D-Website</a> · <a href="https://github.com/KingHacker9000/NEAT-Unity">NEAT-Unity</a> · <a href="https://github.com/KingHacker9000/Nabokov-s-Cards">Nabokov-s-Cards</a> · <a href="https://ashishajin.com">ashishajin.com</a></td></tr>
+<tr><td><b>Infra + automation</b></td><td><a href="https://github.com/KingHacker9000/Compute_Platform">Compute_Platform</a> · <a href="https://github.com/KingHacker9000/demoweave">DemoWeave</a> · <a href="https://github.com/KingHacker9000/remeet">Re:Meet</a> · <a href="https://github.com/KingHacker9000/shellbell">shellbell</a></td></tr>
+</table>
+</details>
+
 ### Lab telemetry
 
 A small automatically refreshed window into what is actually moving on my public GitHub. No streak score, no fake proficiency percentages.
