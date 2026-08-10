@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">Ashish Ajin toolkit and capability map</title>
+  <desc id="desc">A custom four-quadrant map of research, systems, interface, and infrastructure capabilities grounded in Ashish's GitHub projects.</desc>
+  <rect width="1200" height="620" rx="24" fill="#F5F2EB"/>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.sans{font-family:Arial,Helvetica,sans-serif}.k{fill:#16140F}.sub{fill:#55524A}.muted{fill:#7B776E}.hair{stroke:#16140F;stroke-opacity:.16}.accent{fill:#E0491F}.tag{font-size:13px;letter-spacing:1.4px}.small{font-size:11px;letter-spacing:1px}.tool{font-size:19px;font-weight:700}.domain{font-size:27px;font-weight:700;letter-spacing:-.4px}
+  </style>
+  <path d="M48 74H1152M600 110V548M48 330H1152M48 548H1152" class="hair"/>
+  <text x="48" y="50" class="mono k tag">TOOLKIT / CAPABILITY MAP / REPO-BACKED</text>
+  <text x="1152" y="50" text-anchor="end" class="mono sub small">TOOLS ARE EVIDENCE. CAPABILITIES ARE THE POINT.</text>
+
+  <g transform="translate(48 112)">
+    <circle cx="7" cy="8" r="7" class="accent"/>
+    <text x="28" y="13" class="mono sub tag">01 / RESEARCH + VISION</text>
+    <text x="0" y="57" class="sans k domain">Represent · reconstruct · render</text>
+    <text x="0" y="99" class="mono k tool">Python · PyTorch · NumPy · Computer Vision</text>
+    <text x="0" y="130" class="mono k tool">Neural Rendering · NeRF · 3D Reconstruction</text>
+    <text x="0" y="169" class="sans sub" font-size="16">Training loops, camera/ray geometry, volume rendering,</text>
+    <text x="0" y="192" class="sans sub" font-size="16">avatar pipelines and visual experimentation.</text>
+    <text x="0" y="222" class="mono muted small">EVIDENCE → Tiny-NeRF · GaussianAvatar · Music_Avatar · Word-As-Image-HF</text>
+  </g>
+
+  <g transform="translate(632 112)">
+    <circle cx="7" cy="8" r="7" class="accent"/>
+    <text x="28" y="13" class="mono sub tag">02 / SYSTEMS + AGENTS</text>
+    <text x="0" y="57" class="sans k domain">Build tools that survive reality</text>
+    <text x="0" y="99" class="mono k tool">Rust · Go · C++ · Linux · CLI Design</text>
+    <text x="0" y="130" class="mono k tool">Tree-sitter · Local-first · Agent Infrastructure</text>
+    <text x="0" y="169" class="sans sub" font-size="16">Code search, durable jobs, local runtimes, network tools,</text>
+    <text x="0" y="192" class="sans sub" font-size="16">resource management and recoverable execution.</text>
+    <text x="0" y="222" class="mono muted small">EVIDENCE → agentgrep · Shellbell · Re:Meet · quickget · Compute_Platform</text>
+  </g>
+
+  <g transform="translate(48 357)">
+    <circle cx="7" cy="8" r="7" class="accent"/>
+    <text x="28" y="13" class="mono sub tag">03 / GRAPHICS + INTERFACES</text>
+    <text x="0" y="57" class="sans k domain">Make technical things feel alive</text>
+    <text x="0" y="99" class="mono k tool">TypeScript · JavaScript · React · R3F</text>
+    <text x="0" y="130" class="mono k tool">Three.js · WebGL · p5.js · Blender</text>
+    <text x="0" y="169" class="sans sub" font-size="16">Interactive 3D, procedural visuals, playful interfaces</text>
+    <text x="0" y="192" class="sans sub" font-size="16">and product surfaces for technically dense systems.</text>
+    <text x="0" y="222" class="mono muted small">EVIDENCE → 3D-Website · ashishajin.com · Nabokov's-Cards · DemoWeave</text>
+  </g>
+
+  <g transform="translate(632 357)">
+    <circle cx="7" cy="8" r="7" class="accent"/>
+    <text x="28" y="13" class="mono sub tag">04 / INFRA + AUTOMATION</text>
+    <text x="0" y="57" class="sans k domain">Ship it somewhere real</text>
+    <text x="0" y="99" class="mono k tool">Docker · AWS · Nginx · GitHub Actions</text>
+    <text x="0" y="130" class="mono k tool">Playwright · FastAPI · Flask · FFmpeg · WSL</text>
+    <text x="0" y="169" class="sans sub" font-size="16">Self-hosting, browser automation, CI/release workflows,</text>
+    <text x="0" y="192" class="sans sub" font-size="16">GPU workloads, services and evidence-driven testing.</text>
+    <text x="0" y="222" class="mono muted small">EVIDENCE → DemoWeave · Re:Meet · Shellbell · Compute_Platform · quickget</text>
+  </g>
+
+  <text x="48" y="585" class="mono muted small">ALSO WORKED WITH → C · C# · Java · SQL · React Native · Express · PostgreSQL · MySQL · SQLite</text>
+  <circle cx="1139" cy="580" r="6" class="accent"/><circle cx="1119" cy="580" r="3" class="k" opacity=".55"/>
+</svg>
