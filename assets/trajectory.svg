@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Ashish Ajin project trajectory</title>
+  <desc id="desc">A timeline from creative development through neural graphics to agent and systems work.</desc>
+  <rect width="1200" height="300" rx="22" fill="#16140F"/>
+  <text x="48" y="54" fill="#EDE9E0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2.5">CURRENT TRAJECTORY / 2024—2026</text>
+  <text x="1152" y="54" text-anchor="end" fill="#A19C8F" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="2">BUILD → TEST → REBUILD</text>
+
+  <path d="M82 166 C245 122, 335 216, 482 166 S724 116, 856 165 S1032 207, 1125 135" fill="none" stroke="#EDE9E0" stroke-opacity=".30" stroke-width="1.5"/>
+  <path d="M82 166H1125" stroke="#EDE9E0" stroke-opacity=".10" stroke-dasharray="3 9"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <g transform="translate(145 149)">
+      <circle r="7" fill="#E0491F"/>
+      <text y="-35" fill="#EDE9E0" font-size="12" letter-spacing="1.5">CREATIVE COMPUTING</text>
+      <text y="29" fill="#A19C8F" font-size="11">3D-Website · Music_Avatar</text>
+      <text y="47" fill="#6F6A60" font-size="10" letter-spacing="1.5">2024</text>
+    </g>
+
+    <g transform="translate(470 166)">
+      <circle r="7" fill="#E0491F"/>
+      <text y="-35" fill="#EDE9E0" font-size="12" letter-spacing="1.5">NEURAL GRAPHICS</text>
+      <text y="29" fill="#A19C8F" font-size="11">Tiny-NeRF · GaussianAvatar</text>
+      <text y="47" fill="#6F6A60" font-size="10" letter-spacing="1.5">2025</text>
+    </g>
+
+    <g transform="translate(810 157)">
+      <circle r="7" fill="#E0491F"/>
+      <text y="-35" fill="#EDE9E0" font-size="12" letter-spacing="1.5">SYSTEMS + AGENTS</text>
+      <text y="29" fill="#A19C8F" font-size="11">Re:Meet · agentgrep · Shellbell</text>
+      <text y="47" fill="#6F6A60" font-size="10" letter-spacing="1.5">2026</text>
+    </g>
+
+    <g transform="translate(1084 135)">
+      <circle r="9" fill="#F5F2EB" stroke="#E0491F" stroke-width="3"/>
+      <text x="0" y="-37" text-anchor="end" fill="#EDE9E0" font-size="12" letter-spacing="1.5">NOW</text>
+      <text x="0" y="34" text-anchor="end" fill="#A19C8F" font-size="11">DemoWeave + experiments</text>
+    </g>
+  </g>
+
+  <text x="48" y="266" fill="#6F6A60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.5">NOT A ROADMAP. JUST THE SHAPE THE CURIOSITY HAS TAKEN SO FAR.</text>
+</svg>
