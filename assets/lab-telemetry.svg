@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+<title id="title">Ashish Ajin lab telemetry</title>
+<desc id="desc">Seed view of recent public GitHub work; this graphic refreshes automatically after the profile redesign is merged.</desc>
+<rect width="1200" height="430" rx="24" fill="#15130F"/>
+<style>.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.sans{font-family:Arial,Helvetica,sans-serif}.ink{fill:#EDE9E0}.muted{fill:#A19C8F}.dim{fill:#6F6A60}.tiny{font-size:12px;letter-spacing:1px}.repo{font-size:15px;font-weight:700}</style>
+<path d="M48 72H1152M48 344H1152M520 104V324" stroke="#EDE9E0" stroke-opacity=".13"/>
+<text x="48" y="48" class="mono ink tiny" letter-spacing="2.5">ASHISH / LAB TELEMETRY</text>
+<text x="1152" y="48" text-anchor="end" class="mono muted tiny">SEED SNAPSHOT · AUTO-REFRESHES NIGHTLY</text>
+
+<text x="48" y="115" class="mono muted tiny">SIGNAL</text>
+<text x="48" y="154" class="sans ink" font-size="30" font-weight="700">BUILDING IN PUBLIC</text>
+<circle cx="425" cy="137" r="9" fill="#F5F2EB" stroke="#E0491F" stroke-width="3"/><circle cx="425" cy="137" r="3" fill="#E0491F"/>
+
+<text x="48" y="190" class="mono dim tiny" letter-spacing="1.6">RECENT / CURRENT PUBLIC WORK</text>
+<text x="68" y="225" class="mono ink repo">demoweave</text><text x="410" y="225" text-anchor="end" class="mono muted tiny">TypeScript · agent tooling</text>
+<text x="68" y="259" class="mono ink repo">shellbell</text><text x="410" y="259" text-anchor="end" class="mono muted tiny">Rust · self-hosted</text>
+<text x="68" y="293" class="mono ink repo">agentgrep</text><text x="410" y="293" text-anchor="end" class="mono muted tiny">Rust · code intelligence</text>
+<text x="68" y="327" class="mono ink repo">Re:Meet</text><text x="410" y="327" text-anchor="end" class="mono muted tiny">Python · local AI</text>
+
+<text x="625" y="115" class="mono muted tiny" letter-spacing="1.6">LANGUAGE / TOOL SIGNAL</text>
+<text x="650" y="190" class="mono ink tiny">Python</text><rect x="760" y="179" width="238" height="7" rx="3.5" fill="#EDE9E0" opacity=".72"/><circle cx="998" cy="182.5" r="5" fill="#E0491F"/>
+<text x="650" y="225" class="mono ink tiny">TypeScript</text><rect x="760" y="214" width="216" height="7" rx="3.5" fill="#EDE9E0" opacity=".72"/><circle cx="976" cy="217.5" r="5" fill="#E0491F"/>
+<text x="650" y="260" class="mono ink tiny">Rust</text><rect x="760" y="249" width="190" height="7" rx="3.5" fill="#EDE9E0" opacity=".72"/><circle cx="950" cy="252.5" r="5" fill="#E0491F"/>
+<text x="650" y="295" class="mono ink tiny">JavaScript</text><rect x="760" y="284" width="168" height="7" rx="3.5" fill="#EDE9E0" opacity=".72"/><circle cx="928" cy="287.5" r="5" fill="#E0491F"/>
+<text x="650" y="330" class="mono ink tiny">Go</text><rect x="760" y="319" width="94" height="7" rx="3.5" fill="#EDE9E0" opacity=".72"/><circle cx="854" cy="322.5" r="5" fill="#E0491F"/>
+
+<text x="48" y="380" class="mono muted tiny">AFTER MERGE → LIVE COUNTS + RECENT REPOS + LANGUAGE SIGNAL FROM GITHUB API</text>
+<text x="1152" y="380" text-anchor="end" class="mono dim tiny">FIG. LIVE / 01</text>
+</svg>
