@@ -47,6 +47,22 @@ I’m a Computer Science student at the **University of Toronto** working around
 </tr>
 </table>
 
+### Toolkit
+
+Not a list of every library I have ever installed. This is the stack and set of capabilities that keeps showing up across the things I actually build.
+
+<img src="./assets/toolkit.svg" width="100%" alt="Repository-backed toolkit and capability map covering research, systems, graphics, interfaces, infrastructure and automation" />
+
+The map is grounded in the repository history — from PyTorch/NeRF experiments and R3F work to Rust code intelligence, Go networking tools, local AI software, browser automation, CI and self-hosted infrastructure.
+
+### Lab telemetry
+
+A small automatically refreshed window into what is actually moving on my public GitHub. No streak score, no fake proficiency percentages.
+
+<img src="./assets/lab-telemetry.svg" width="100%" alt="Automatically refreshed GitHub lab telemetry showing recent public repositories and language signals" />
+
+<sub>Refreshed nightly from the GitHub API by this profile repository.</sub>
+
 ### The recurring themes
 
 **Vision / graphics.** I’m interested in machines that can represent, reconstruct and render the visual world — especially neural rendering and avatars.
@@ -54,10 +70,6 @@ I’m a Computer Science student at the **University of Toronto** working around
 **Useful AI systems.** I care less about bolting a chat box onto things and more about building the execution, retrieval, evaluation and interface layers that make AI tools dependable.
 
 **Small tools with sharp edges.** CLIs, self-hosted services, weird browser experiments, infrastructure, and things I build because I wanted them to exist.
-
-### Tools I actually reach for
-
-`Python / PyTorch` for ML and research · `Rust / C++` when systems matter · `TypeScript / React / Three.js` for interfaces · `Linux / Docker / AWS` for getting things running somewhere other than my laptop.
 
 ---
 
