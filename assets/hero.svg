@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Ashish Ajin — systems, vision, graphics and intelligence</title>
+  <desc id="desc">Editorial profile banner with an abstract procedural signal field.</desc>
+  <rect width="1200" height="420" rx="24" fill="#F5F2EB"/>
+  <path d="M48 42H1152" stroke="#16140F" stroke-opacity=".18"/>
+  <path d="M48 378H1152" stroke="#16140F" stroke-opacity=".18"/>
+
+  <text x="52" y="79" fill="#16140F" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="3">ASHISHAJIN.COM / PROFILE</text>
+  <text x="52" y="194" fill="#16140F" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="700" letter-spacing="-5">ASHISH</text>
+  <text x="52" y="281" fill="#16140F" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="700" letter-spacing="-5">AJIN</text>
+  <text x="56" y="324" fill="#3C3930" font-family="Arial, Helvetica, sans-serif" font-size="22">Building systems for vision, graphics and intelligence.</text>
+  <text x="56" y="354" fill="#55524A" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">COMPUTER VISION · NEURAL GRAPHICS · AI SYSTEMS · CREATIVE TOOLS</text>
+
+  <g transform="translate(795 207)">
+    <ellipse rx="232" ry="126" fill="none" stroke="#16140F" stroke-opacity=".20"/>
+    <ellipse rx="194" ry="101" fill="none" stroke="#16140F" stroke-opacity=".25" transform="rotate(16)"/>
+    <ellipse rx="160" ry="78" fill="none" stroke="#16140F" stroke-opacity=".34" transform="rotate(-21)"/>
+    <ellipse rx="128" ry="56" fill="none" stroke="#16140F" stroke-opacity=".44" transform="rotate(36)"/>
+    <path d="M-240 0H240M0-146V146" stroke="#16140F" stroke-opacity=".12" stroke-dasharray="4 8"/>
+
+    <g fill="#16140F">
+      <circle cx="-205" cy="-31" r="3"/><circle cx="-174" cy="62" r="3"/><circle cx="-131" cy="-82" r="4"/>
+      <circle cx="-87" cy="28" r="3"/><circle cx="-34" cy="-58" r="4"/><circle cx="27" cy="72" r="3"/>
+      <circle cx="82" cy="-74" r="3"/><circle cx="128" cy="21" r="4"/><circle cx="177" cy="-14" r="3"/>
+      <circle cx="203" cy="58" r="3"/>
+    </g>
+
+    <g stroke="#16140F" stroke-opacity=".28">
+      <path d="M-205-31L-131-82L-34-58L82-74L177-14" fill="none"/>
+      <path d="M-174 62L-87 28L27 72L128 21L203 58" fill="none"/>
+      <path d="M-131-82L-87 28L-34-58L27 72L82-74L128 21" fill="none"/>
+    </g>
+
+    <circle r="16" fill="#F5F2EB" stroke="#16140F" stroke-width="2"/>
+    <circle r="5" fill="#E0491F"/>
+    <circle cx="154" cy="-101" r="6" fill="#E0491F"/>
+    <path d="M8-8L148-96" stroke="#E0491F" stroke-width="1.5"/>
+
+    <text x="169" y="-104" fill="#16140F" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.5">SIGNAL</text>
+    <text x="-228" y="151" fill="#55524A" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.5">FIG. 00 / LATENT FIELD</text>
+  </g>
+</svg>
