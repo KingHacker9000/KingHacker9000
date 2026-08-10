@@ -1,22 +1,64 @@
-# 💫 About Me:
-🔭 Hi, I’m Ashish Ajin, an aspiring Machine Learning and Computer Graphics Researcher<br>👀 I’m interested in AI, Games, and Neural Rendering <br>🌱 I’m currently studying at the University of Toronto<br>📫 How to reach me: send me an email @ ashishajin05@gmail.com
+<a href="https://ashishajin.com">
+  <img src="./assets/hero.svg" width="100%" alt="Ashish Ajin — building systems for vision, graphics and intelligence" />
+</a>
 
+<br>
 
-# 💻 Tech Stack:
-### <✍🏻/> Langauges:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
-### 🛜 Hosting: <br>
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)<br>
-### 🔧 Frameworks and Tools:<br>
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)<br>
-### 💾 Database:<br>
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)<br>
-### Others:<br>
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+I’m a Computer Science student at the **University of Toronto** working around **computer vision, neural graphics, AI systems, and creative developer tools**. I like projects where research ideas have to survive contact with real software.
 
+[**ashishajin.com ↗**](https://ashishajin.com)
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=KingHacker9000&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KingHacker9000&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Right now
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- `research` — neural rendering, 3D avatars, reconstruction, novel-view synthesis
+- `systems` — local-first software, agent infrastructure, tools that are inspectable and recoverable
+- `interfaces` — making technical systems feel playful without making them feel like toys
+
+<br>
+
+<img src="./assets/trajectory.svg" width="100%" alt="Project trajectory from creative computing through neural graphics to systems and agents" />
+
+### Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/KingHacker9000/remeet">Re:Meet ↗</a></h3>
+<p>A local-first AI meeting companion that captures conversations, screens and live notes, then turns them into searchable decisions, actions and context.</p>
+<sub>AI SYSTEMS · LOCAL-FIRST · 2026</sub>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/KingHacker9000/agentgrep">agentgrep ↗</a></h3>
+<p>Fast local code radar for coding agents — ranking files, symbols and dependency relationships without putting an LLM in the core search loop.</p>
+<sub>DEVELOPER TOOLS · RUST · AGENTS · 2026</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/KingHacker9000/shellbell">Shellbell ↗</a></h3>
+<p>A privacy-first, self-hosted notification system that calls you back when long-running terminal work needs your attention.</p>
+<sub>SYSTEMS · RUST · SELF-HOSTED · 2026</sub>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/KingHacker9000/demoweave">DemoWeave ↗</a></h3>
+<p>Runtime evidence for agent-authored documentation: inspect the repo, execute declared workflows, capture evidence, track freshness, then safely review and apply docs.</p>
+<sub>AGENTS · DOCUMENTATION · TOOLING · 2026</sub>
+</td>
+</tr>
+</table>
+
+### The recurring themes
+
+**Vision / graphics.** I’m interested in machines that can represent, reconstruct and render the visual world — especially neural rendering and avatars.
+
+**Useful AI systems.** I care less about bolting a chat box onto things and more about building the execution, retrieval, evaluation and interface layers that make AI tools dependable.
+
+**Small tools with sharp edges.** CLIs, self-hosted services, weird browser experiments, infrastructure, and things I build because I wanted them to exist.
+
+### Tools I actually reach for
+
+`Python / PyTorch` for ML and research · `Rust / C++` when systems matter · `TypeScript / React / Three.js` for interfaces · `Linux / Docker / AWS` for getting things running somewhere other than my laptop.
+
+---
+
+<sub><code>// still making a mess — just with better abstractions.</code></sub>
