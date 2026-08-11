@@ -1,29 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
 <title id="title">Ashish Ajin lab telemetry</title>
-<desc id="desc">Seed view of recent public GitHub work; this graphic refreshes automatically after the profile redesign is merged.</desc>
+<desc id="desc">Automatically refreshed snapshot of Ashish Ajin's public GitHub repository activity and primary repository languages.</desc>
 <rect width="1200" height="430" rx="24" fill="#15130F"/>
 <style>.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.sans{font-family:Arial,Helvetica,sans-serif}.ink{fill:#EDE9E0}.muted{fill:#A19C8F}.dim{fill:#6F6A60}.tiny{font-size:12px;letter-spacing:1px}.repo{font-size:15px;font-weight:700}</style>
 <path d="M48 72H1152M48 344H1152M520 104V324" stroke="#EDE9E0" stroke-opacity=".13"/>
 <text x="48" y="48" class="mono ink tiny" letter-spacing="2.5">ASHISH / LAB TELEMETRY</text>
-<text x="1152" y="48" text-anchor="end" class="mono muted tiny">SEED SNAPSHOT · AUTO-REFRESHES NIGHTLY</text>
+<text x="1152" y="48" text-anchor="end" class="mono muted tiny">AUTO-REFRESH · 2026-08-11 UTC</text>
 
-<text x="48" y="115" class="mono muted tiny">SIGNAL</text>
-<text x="48" y="154" class="sans ink" font-size="30" font-weight="700">BUILDING IN PUBLIC</text>
+<text x="48" y="115" class="mono muted tiny">PUBLIC SOURCE REPOS</text>
+<text x="48" y="154" class="sans ink" font-size="38" font-weight="700">33</text>
+<text x="225" y="115" class="mono muted tiny">PUSHED / 30D</text>
+<text x="225" y="154" class="sans ink" font-size="38" font-weight="700">05</text>
 <circle cx="425" cy="137" r="9" fill="#F5F2EB" stroke="#E0491F" stroke-width="3"/><circle cx="425" cy="137" r="3" fill="#E0491F"/>
 
-<text x="48" y="190" class="mono dim tiny" letter-spacing="1.6">RECENT / CURRENT PUBLIC WORK</text>
-<text x="68" y="225" class="mono ink repo">demoweave</text><text x="410" y="225" text-anchor="end" class="mono muted tiny">TypeScript · agent tooling</text>
-<text x="68" y="259" class="mono ink repo">shellbell</text><text x="410" y="259" text-anchor="end" class="mono muted tiny">Rust · self-hosted</text>
-<text x="68" y="293" class="mono ink repo">agentgrep</text><text x="410" y="293" text-anchor="end" class="mono muted tiny">Rust · code intelligence</text>
-<text x="68" y="327" class="mono ink repo">Re:Meet</text><text x="410" y="327" text-anchor="end" class="mono muted tiny">Python · local AI</text>
+<text x="48" y="190" class="mono dim tiny" letter-spacing="1.6">RECENT SIGNAL</text>
+<text x="68" y="195" class="mono ink repo">demoweave</text><text x="410" y="195" text-anchor="end" class="mono muted tiny">TypeScript · today</text><text x="68" y="229" class="mono ink repo">KingHacker9000</text><text x="410" y="229" text-anchor="end" class="mono muted tiny">Python · today</text><text x="68" y="263" class="mono ink repo">fairshare</text><text x="410" y="263" text-anchor="end" class="mono muted tiny">TypeScript · 1d ago</text><text x="68" y="297" class="mono ink repo">MiniProjects</text><text x="410" y="297" text-anchor="end" class="mono muted tiny">Python · 2d ago</text><text x="68" y="331" class="mono ink repo">shellbell</text><text x="410" y="331" text-anchor="end" class="mono muted tiny">Rust · 20d ago</text>
 
-<text x="625" y="115" class="mono muted tiny" letter-spacing="1.6">LANGUAGE / TOOL SIGNAL</text>
-<text x="650" y="190" class="mono ink tiny">Python</text><rect x="760" y="179" width="238" height="7" rx="3.5" fill="#EDE9E0" opacity=".72"/><circle cx="998" cy="182.5" r="5" fill="#E0491F"/>
-<text x="650" y="225" class="mono ink tiny">TypeScript</text><rect x="760" y="214" width="216" height="7" rx="3.5" fill="#EDE9E0" opacity=".72"/><circle cx="976" cy="217.5" r="5" fill="#E0491F"/>
-<text x="650" y="260" class="mono ink tiny">Rust</text><rect x="760" y="249" width="190" height="7" rx="3.5" fill="#EDE9E0" opacity=".72"/><circle cx="950" cy="252.5" r="5" fill="#E0491F"/>
-<text x="650" y="295" class="mono ink tiny">JavaScript</text><rect x="760" y="284" width="168" height="7" rx="3.5" fill="#EDE9E0" opacity=".72"/><circle cx="928" cy="287.5" r="5" fill="#E0491F"/>
-<text x="650" y="330" class="mono ink tiny">Go</text><rect x="760" y="319" width="94" height="7" rx="3.5" fill="#EDE9E0" opacity=".72"/><circle cx="854" cy="322.5" r="5" fill="#E0491F"/>
+<text x="625" y="115" class="mono muted tiny" letter-spacing="1.6">PRIMARY LANGUAGE SIGNAL / REPOSITORIES</text>
+<text x="650" y="194" class="mono ink tiny">Python</text><rect x="760" y="183" width="250" height="7" rx="3.5" fill="#16140F" opacity=".72"/><circle cx="1010" cy="186.5" r="5" fill="#E0491F"/><text x="650" y="229" class="mono ink tiny">JavaScript</text><rect x="760" y="218" width="93" height="7" rx="3.5" fill="#16140F" opacity=".72"/><circle cx="853" cy="221.5" r="5" fill="#E0491F"/><text x="650" y="264" class="mono ink tiny">HTML</text><rect x="760" y="253" width="78" height="7" rx="3.5" fill="#16140F" opacity=".72"/><circle cx="838" cy="256.5" r="5" fill="#E0491F"/><text x="650" y="299" class="mono ink tiny">TypeScript</text><rect x="760" y="288" width="46" height="7" rx="3.5" fill="#16140F" opacity=".72"/><circle cx="806" cy="291.5" r="5" fill="#E0491F"/><text x="650" y="334" class="mono ink tiny">Rust</text><rect x="760" y="323" width="31" height="7" rx="3.5" fill="#16140F" opacity=".72"/><circle cx="791" cy="326.5" r="5" fill="#E0491F"/><text x="650" y="369" class="mono ink tiny">Java</text><rect x="760" y="358" width="15" height="7" rx="3.5" fill="#16140F" opacity=".72"/><circle cx="775" cy="361.5" r="5" fill="#E0491F"/>
 
-<text x="48" y="380" class="mono muted tiny">AFTER MERGE → LIVE COUNTS + RECENT REPOS + LANGUAGE SIGNAL FROM GITHUB API</text>
-<text x="1152" y="380" text-anchor="end" class="mono dim tiny">FIG. LIVE / 01</text>
+<text x="48" y="380" class="mono muted tiny">NOT A SCORECARD — JUST A SMALL WINDOW INTO WHAT IS MOVING.</text>
+<text x="1152" y="380" text-anchor="end" class="mono dim tiny">SOURCE → GITHUB API</text>
 </svg>
